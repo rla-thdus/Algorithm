@@ -19,6 +19,7 @@
 - [백준 1541번](https://github.com/rla-thdus/Algorithm/blob/main/Baekjoon/1541.md)
 - [백준 5585번](https://github.com/rla-thdus/Algorithm/blob/main/Baekjoon/5585.md)
 - [백준 9237번](https://github.com/rla-thdus/Algorithm/blob/main/Baekjoon/9237.md)
+- [백준 14720번](https://github.com/rla-thdus/Algorithm/blob/main/Baekjoon/14720.md)
 
 ## 문자열
 - [백준 8958번](https://github.com/rla-thdus/Algorithm/blob/main/Baekjoon/8958.md)
